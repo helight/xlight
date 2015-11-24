@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Helight&#39;s site</title>
+    <link>http://helight.github.io/post/</link>
+    <description>Recent content in Posts on Helight&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>helight@zhwen.org (helight)</managingEditor>
+    <webMaster>helight@zhwen.org (helight)</webMaster>
+    <copyright>(c) 2015 Helight</copyright>
+    <lastBuildDate>Tue, 24 Nov 2015 19:31:38 +0800</lastBuildDate>
+    <atom:link href="http://helight.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>helight_intro</title>
+      <link>http://helight.github.io/2015/11/24/helight_intro/</link>
+      <pubDate>Tue, 24 Nov 2015 19:31:38 +0800</pubDate>
+      <author>helight@zhwen.org (helight)</author>
+      <guid>http://helight.github.io/2015/11/24/helight_intro/</guid>
+      <description>
+
+&lt;h3 id=&#34;helight:a693bc58fe186613c5744fd029c0a6c9&#34;&gt;helight&lt;/h3&gt;
+
+&lt;p&gt;ddddd&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
