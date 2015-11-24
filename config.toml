@@ -1,0 +1,49 @@
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "http://helight.github.io"
+
+# Site title
+title = "Helight's site"
+
+# Copyright
+copyright = "(c) 2015 Helight"
+
+# Language
+languageCode = "en-EN"
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "tomal"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap"
+# theme = "hugo-theme-bootie-docs"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "your_disqus_shortname"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "helight"
+    email = "helight@zhwen.org"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    description = "This is Helight's Site"
+    withSitePosts = true
+    mainMenu = ["post", "about"]
+    #noCategoryLink = true
+    noCategoryLink = true
+#  repositoryUrl = "http://your-repository-url"
