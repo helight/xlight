@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helight&#39;s site</title>
+    <link>http://helight.github.io/</link>
+    <description>Recent content on Helight&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>helight@zhwen.org (helight)</managingEditor>
+    <webMaster>helight@zhwen.org (helight)</webMaster>
+    <copyright>(c) 2015 Helight</copyright>
+    <atom:link href="http://helight.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
